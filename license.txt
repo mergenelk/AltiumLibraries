@@ -12,6 +12,8 @@ For inquiries, please contact: 📩 ekremturanfirat@mergenelk.com
 
 🔗 Official CERN-OHL v2-S License Documentation: https://ohwr.org/project/cernohl/wikis/home
 
+---
+
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
 
